@@ -1,0 +1,10 @@
+C:\Programming\CShop\FileTest3\FileTest3\bin\Debug\FileTest3.exe.config
+C:\Programming\CShop\FileTest3\FileTest3\bin\Debug\FileTest3.exe
+C:\Programming\CShop\FileTest3\FileTest3\bin\Debug\FileTest3.pdb
+C:\Programming\CShop\FileTest3\FileTest3\obj\Debug\FileTest3.csprojAssemblyReference.cache
+C:\Programming\CShop\FileTest3\FileTest3\obj\Debug\FileTest3.FrmMain.resources
+C:\Programming\CShop\FileTest3\FileTest3\obj\Debug\FileTest3.Properties.Resources.resources
+C:\Programming\CShop\FileTest3\FileTest3\obj\Debug\FileTest3.csproj.GenerateResource.cache
+C:\Programming\CShop\FileTest3\FileTest3\obj\Debug\FileTest3.csproj.CoreCompileInputs.cache
+C:\Programming\CShop\FileTest3\FileTest3\obj\Debug\FileTest3.exe
+C:\Programming\CShop\FileTest3\FileTest3\obj\Debug\FileTest3.pdb
